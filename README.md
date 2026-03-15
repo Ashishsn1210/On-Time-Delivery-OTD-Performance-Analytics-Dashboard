@@ -59,6 +59,7 @@ The dashboard provides several interactive capabilities to support operational a
 
 ## Tools Used
 Google Looker Studio – Data visualization and dashboard development
+
 Operational order and dispatch datasets – Source data for delivery analysis
 
 ## Dashboard Overview
