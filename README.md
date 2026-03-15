@@ -63,7 +63,7 @@ Google Looker Studio – Data visualization and dashboard development
 Operational order and dispatch datasets – Source data for delivery analysis
 
 ## Dashboard Overview
----- Image -----
+![OTD_Dashboard](https://github.com/Ashishsn1210/On-Time-Delivery-OTD-Performance-Analytics-Dashboard/blob/019e76dd04bbcb8e326a595db0d2c614e8fa493c/OTD_Dashboard.png)
 
 
 ## Why This Project Matters
