@@ -46,23 +46,16 @@ Key Improvements
 ## Key Metrics Tracked
 The dashboard monitors several key operational metrics used to evaluate delivery performance.
 
-#### Purchase Order Quantity (PO Qty)
-Represents the total number of orders committed for delivery within the selected time range.
-#### Dispatch Quantity
-Represents the total quantity of orders that were successfully dispatched.
-#### On-Time Delivery (OTD)
-On-Time Delivery measures the percentage of orders delivered within the committed schedule.
-#### Delivery Adherence (DA%)
-Delivery Adherence measures how closely actual dispatches align with planned delivery commitments.
+#### Purchase Order Quantity (PO Qty): Represents the total number of orders committed for delivery within the selected time range.
+#### Dispatch Quantity: Represents the total quantity of orders that were successfully dispatched.
+#### On-Time Delivery (OTD): On-Time Delivery measures the percentage of orders delivered within the committed schedule.
+#### Delivery Adherence (DA%): Delivery Adherence measures how closely actual dispatches align with planned delivery commitments.
 
 ## Dashboard Features
 The dashboard provides several interactive capabilities to support operational analysis.
-#### Date Range Filtering
-Users can filter delivery performance for a specific time period to analyze trends and review recent operational performance.
-#### Customer-Level Analysis
-Delivery performance can be filtered by customer to evaluate delivery reliability across different accounts.
-#### Delivery Performance Trend
-The dashboard visualizes delivery commitments, order completion counts, and OTD performance across time.
+#### Date Range Filtering: Users can filter delivery performance for a specific time period to analyze trends and review recent operational performance.
+#### Customer-Level Analysis: Delivery performance can be filtered by customer to evaluate delivery reliability across different accounts.
+#### Delivery Performance Trend: The dashboard visualizes delivery commitments, order completion counts, and OTD performance across time.
 
 ## Tools Used
 Google Looker Studio – Data visualization and dashboard development
